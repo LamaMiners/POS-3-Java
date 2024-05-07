@@ -16,3 +16,6 @@
 [submodule "POS-3-SchoolManagement"]
 	path = POS-3-SchoolManagement
 	url = https://github.com/LamaMiners/POS-3-SchoolManagement
+[submodule "POS-3-SearchReplace"]
+	path = POS-3-SearchReplace
+	url = https://github.com/LamaMiners/POS-3-SearchReplace
