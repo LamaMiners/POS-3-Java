@@ -4,3 +4,6 @@
 [submodule "POS-3-DjikstraGraphical"]
 	path = POS-3-DjikstraGraphical
 	url = https://github.com/LamaMiners/POS-3-DjikstraGraphical
+[submodule "POS-3-DjikstraKonsole"]
+	path = POS-3-DjikstraKonsole
+	url = https://github.com/LamaMiners/POS-3-DjikstraKonsole
