@@ -13,3 +13,6 @@
 [submodule "POS-3-HIM"]
 	path = POS-3-HIM
 	url = https://github.com/LamaMiners/POS-3-HIM
+[submodule "POS-3-SchoolManagement"]
+	path = POS-3-SchoolManagement
+	url = https://github.com/LamaMiners/POS-3-SchoolManagement
