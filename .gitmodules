@@ -10,3 +10,6 @@
 [submodule "POS-3-GeoCalc"]
 	path = POS-3-GeoCalc
 	url = https://github.com/LamaMiners/POS-3-GeoCalc
+[submodule "POS-3-HIM"]
+	path = POS-3-HIM
+	url = https://github.com/LamaMiners/POS-3-HIM
