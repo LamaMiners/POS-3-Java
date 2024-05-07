@@ -7,3 +7,6 @@
 [submodule "POS-3-DjikstraKonsole"]
 	path = POS-3-DjikstraKonsole
 	url = https://github.com/LamaMiners/POS-3-DjikstraKonsole
+[submodule "POS-3-GeoCalc"]
+	path = POS-3-GeoCalc
+	url = https://github.com/LamaMiners/POS-3-GeoCalc
